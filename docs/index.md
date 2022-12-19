@@ -5,7 +5,14 @@ This is a test for github pages
 
 Cool stuff...
 
-![Top20 amenities for australian airbnb accommodations](https://github.com/PatrickChristoph/airbnb_insights_australia/tree/main/docs/img/top20_amenities.png")
+![Top20 amenities for australian airbnb accommodations](https://github.com/PatrickChristoph/airbnb_insights_australia/tree/main/docs/img/top20_amenities.png)
+
+
+![Top20 amenities for australian airbnb accommodations](img/top20_amenities.png")
+
+
+![Top20 amenities for australian airbnb accommodations](..img/top20_amenities.png")
+
 
 Nice picture above.
 
