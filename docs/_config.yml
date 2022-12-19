@@ -2,7 +2,7 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [How anybody can predict Airbnb ratings 😲]
-description: [Insights about Australian Airbnb accommodations.]
+title: How anybody can predict Airbnb ratings 😲
+description: Insights about Australian Airbnb accommodations.
 
-show_downloads: "false"
+show_downloads: false
