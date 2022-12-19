@@ -1,4 +1,4 @@
-# How to predict ratings of new Airbnb's? 🏠
+# How to predict ratings of new Airbnb's?
 
 <img src="img/blog_post_image.webp" width="500"/>
 
