@@ -1,4 +1,4 @@
-# How anybody can predict Airbnb ratings... 😲
+# How anybody can predict Airbnb ratings 😲
 
 <img src="img/blog_post_image.webp" width="500"/>
 

@@ -5,4 +5,4 @@ plugins:
 title: [How anybody can predict Airbnb ratings 😲]
 description: [Insights about Australian Airbnb accommodations.]
 
-show_downloads: [false]
+show_downloads: "false"
