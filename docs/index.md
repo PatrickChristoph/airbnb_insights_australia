@@ -1,11 +1,11 @@
-# How anybody can predict Airbnb ratings 😲
+# How to predict ratings of new Airbnb's? 🏠
 
 <img src="img/blog_post_image.webp" width="500"/>
 
 ...or at least try to predict it 😅
 
 During my data science course with Udacity I was challenged to predict something
-with public data from Airbnb. Because I'm currently travel in Australia, I
+with public data from Airbnb. Because I'm currently traveling in Australia, I
 chose to use all public available data from the land of the kangaroos 🦘 -
 thanks at this point to [Inside Airbnb](https://www.insideairbnb.com/)
 who provides the data.
@@ -15,9 +15,9 @@ about the amenities data of the Airbnb accommodations.
 
 ## What are the most common amenities in Australia?
 
-This one you might have expected - it is a kitchen. Roughly 92% of the
+You might not have expected this one - it is a kitchen. Roughly 92% of the
 accommodations offers a kitchen. Second comes the smoke alarm with around 91% -
-hopefully the missing 9% are explainable just because the owners forgot to
+hopefully the missing 9% are due to the fact that the owners just forgot to
 mention it.
 
 <img src="img/top20_amenities.png" alt="top20 amenities for Australian
@@ -50,10 +50,10 @@ in a scatter plot as well:
 <img src="img/scatter_amenities_rating.png" alt="scatter plot between amenities
 and rating" width="800"/>
 
-In contrast to the price we can see a little
-trend for the ratings: The more amenities an accommodation have, the higher the
-ratings seems to be. Like the correlation shows, it is not very high, I have to
-grant, but there is a little coherence.
+In contrast to the price we can see a little trend for the ratings: The more
+amenities an accommodation have, the higher the ratings seems to be.
+Like the correlation shows, it is admittedly not very high, but there is a
+little coherence.
 
 You may also noted that the axis is scaled from 3 to 5. This is because most of
 the Airbnb ratings are in that range, so I scaled it down to the relevant
@@ -78,7 +78,7 @@ and can be used for a rough prediction. But as I said before, there are surely
 better ways to build a rating model. Moreover we have to consider that there is
 plenty of more data (e.g. visits, time-on-site, conversion rate, user rating
 behavior etc.) that is not publicly available. So if we would have access
-to internal data of Airbnb, it would also improve the precision of the model.
+to internal data of Airbnb, it would possibly improve the precision of the model.
 
 If you are interested in the data and code I used, feel free to explore my
 repository on GitHub: https://github.com/PatrickChristoph/airbnb_insights_australia/
