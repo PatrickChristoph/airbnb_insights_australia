@@ -67,7 +67,7 @@ Because I'm new to the field I have to admit that there are quite sure better
 ways to build such a rating model. I used a linear regression model, which is
 a simple but common way to build models in my current understanding.
 
-With my approach I was able to build a model with an r² score of 0.28. If you
+With my approach I was able to build a model with an r² score of 0.27. If you
 are also new to data science, you probably never heard of that score. It's a
 statistical measure that is really popular to evaluate the precision of a model.
 The interpretation of that score isn't really easy, because you have to take
@@ -75,9 +75,9 @@ various dependencies into consideration and apply it to your individual case.
 
 As far as I can assess that score, it seems that the model works not that bad
 and can be used for a rough prediction. But as I said before, there are surely
-better ways to build a rating model. Moreover we have to consider that there is
-plenty of more data (e.g. visits, time-on-site, conversion rate, user rating
-behavior etc.) that is not publicly available. So if we would have access
+more advanced ways to build a rating model. Moreover we have to consider that
+there is plenty of more data (e.g. visits, time-on-site, conversion rate, user
+rating behavior etc.) that is not publicly available. So if we would have access
 to internal data of Airbnb, it would possibly improve the precision of the model.
 
 If you are interested in the data and code I used, feel free to explore my
